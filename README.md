@@ -15,5 +15,3 @@ When a game is over, the user is asked if they want to play again. If no, the pr
 
 Write a program where the computer is both the opponent and referee; and there is one human player.
 The program must consist of multiple IF and/or switch/case statements, making use of boolean operators such as AND (&&) and OR (||). The player will also be told at the end the number of wins during the current session.
-
-// Project done by me for a grade 11 computer science class. Mark recieved was 12/12.
