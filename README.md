@@ -1,6 +1,4 @@
-# Code Description
-
-This game presents a way to show your learning in compound if statements and conditional loops.
+# Rock-Paper-Scissor Game
 
 Computer randomly chooses rock-paper-scissors, and waits for the player to respond.
 Player is asked if they are choosing rock, paper or scissors. They play against the computer, which chooses randomly.
